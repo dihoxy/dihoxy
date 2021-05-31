@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dihoxy and I am a student at the University of Alabama at Birmingham
-- 👀 I’m interested in OOP, Web Automation, Web Design, and Machine Learning 
-- 🌱 I’m currently learning material design, kivy, kivymd, Microsoft PowerApps, PostgreSQL, MySQL, and OOP
+- 👀 I’m interested in OOP, Data Analytics, Machine Learning, Web-Design, and all things tech...
+- 🌱 I have experience in data analysis with Jupyter Notebooks, kivy & kivymd app design, PostgreSQL, MySQL, and OOP
 - 💞️ I’m looking to collaborate on any project that increases my skillset
 - 📫 How to reach me: github or dihoxy@uab.edu
 
